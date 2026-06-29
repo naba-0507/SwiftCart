@@ -1,0 +1,9 @@
+#pragma once
+#include "screens/LoginScreen.hpp"
+#include "screens/RegisterScreen.hpp"
+#include "screens/CustomerScreen.hpp"
+#include "screens/ProductListScreen.hpp"
+#include "screens/CartScreen.hpp"
+#include "screens/OrderScreen.hpp"
+#include "screens/SellerScreen.hpp"
+#include "screens/AdminScreen.hpp"
