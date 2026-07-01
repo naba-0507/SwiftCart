@@ -247,7 +247,7 @@ brew install sfml cmake
 
 **Step 2 — Clone the repository**
 ```bash
-git clone https://github.com/yourusername/SwiftCart.git
+git clone https://github.com/naba-0507/SwiftCart
 cd SwiftCart
 ```
 
@@ -287,7 +287,7 @@ Download the MinGW version of SFML 2.6 from [sfml-dev.org](https://www.sfml-dev.
 
 **Step 4 — Clone the repository**
 ```bash
-git clone https://github.com/yourusername/SwiftCart.git
+git clone https://github.com/naba-0507/SwiftCart
 cd SwiftCart
 ```
 
